@@ -39,3 +39,31 @@ Uncomplex :  In simple word i am giving you ( variable = 'Laptop') and i want to
 
 
 
+
+
+
+Disclamer : In this repository you can find Qna question to sharp your brain (maybe). For learn python from you can read Doc from https://doc.python.org/ or book from https://realpython.com/ or from anywhere you want (the python book i use 4th edition {this is not any promotion}) or i have another repository contains files from that book exercise where i document even comment almost  in eveyline of code https://github.com/zaynkhan100110/python-for-beginner/ .
+
+Contribute : If anyone wants (since this material is for learning) then they can contribute.
+
+                                                    Good Luck
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
