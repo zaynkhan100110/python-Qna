@@ -1,5 +1,5 @@
 
-                        Qna on python
+                                                 Qna on python
 
 
 
